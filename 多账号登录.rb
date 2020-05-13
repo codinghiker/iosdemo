@@ -1,5 +1,22 @@
  spaceship/client.rb
  
+
+line 174
+   def get_team_id(team_id:nil)
+      # First, we verify the team actually exists, because otherwise iTC would return the
+      # following confusing error message
+      #
+      #     invalid content provider id
+      #
+      available_teams = teams.collect do |team|
+        {
+            team_id: (team["contentProvider"] || {})["contentProviderId"],
+            team_name: (team["contentProvider"] || {})["name"]
+        }
+      end
+    
+    
+    
  
  # Get the `itctx` from the new (22nd May 2017) API endpoint "olympus"
     # Update (29th March 2019) olympus migrates to new appstoreconnect API
