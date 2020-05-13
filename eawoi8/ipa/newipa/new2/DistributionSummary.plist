@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WKWebViewJavascriptBridgeDemo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A26E71A3378DBA14B5936FC8E38ADA901B7BD130</string>
+				<key>dateExpires</key>
+				<string>2021/5/12</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A26E71A3378DBA14B5936FC8E38ADA901B7BD130</string>
+						<key>dateExpires</key>
+						<string>2021/5/12</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>WKWebViewJavascriptBridge.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>JVT35ZF2R6</string>
+						<key>name</key>
+						<string>shunquan zhu</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>JVT35ZF2R6.com.Lision.WKWebViewJavascriptBridge</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>JVT35ZF2R6</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>JVT35ZF2R6.com.Lision.WKWebViewJavascriptBridge</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>WKWebViewJavascriptBridgeDemo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>eaa7e5ad-9769-4f06-b033-bd8199b06085</string>
+				<key>name</key>
+				<string>WKLISION</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>JVT35ZF2R6</string>
+				<key>name</key>
+				<string>shunquan zhu</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

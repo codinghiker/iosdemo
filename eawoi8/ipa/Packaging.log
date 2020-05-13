@@ -1,0 +1,202 @@
+2020-05-12 04:15:37 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7ff1cb4d4e50; archive(resolved)='<IDEArchive: 0x7ff1e0245c00>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff1c6650ae0; teamID='JVT35ZF2R6', teamName='shunquan zhu', teamType='Individual', username='eawoi8@163.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7ff1cb4d4e50; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff1c6650ae0; teamID='JVT35ZF2R6', teamName='shunquan zhu', teamType='Individual', username='eawoi8@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7ff1cb704950; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff1c6650ae0; teamID='JVT35ZF2R6', teamName='shunquan zhu', teamType='Individual', username='eawoi8@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff1cb4f64c0; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff1c6650ae0; teamID='JVT35ZF2R6', teamName='shunquan zhu', teamType='Individual', username='eawoi8@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff1cb09c3f0; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff1c6650ae0; teamID='JVT35ZF2R6', teamName='shunquan zhu', teamType='Individual', username='eawoi8@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff1cb3ec750; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff1c6650ae0; teamID='JVT35ZF2R6', teamName='shunquan zhu', teamType='Individual', username='eawoi8@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff1cb4cf1d0; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff1c6650ae0; teamID='JVT35ZF2R6', teamName='shunquan zhu', teamType='Individual', username='eawoi8@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff1c8f489c0; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff1c6650ae0; teamID='JVT35ZF2R6', teamName='shunquan zhu', teamType='Individual', username='eawoi8@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff1c8f5b130; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff1c6650ae0; teamID='JVT35ZF2R6', teamName='shunquan zhu', teamType='Individual', username='eawoi8@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff1cb0cdc60; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7ff1c6650ae0; teamID='JVT35ZF2R6', teamName='shunquan zhu', teamType='Individual', username='eawoi8@163.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7ff1c8f84000; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team='(null)'>
+	<IDEDistributionContext: 0x7ff1cb4da340; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7ff1e41e5590>', team='(null)'>
+	<IDEDistributionContext: 0x7ff1cb3cb4b0; archive = '<IDEArchive: 0x7ff1e0245c00>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7ff1cb4d4e50>
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionCopyItemStep
+2020-05-12 04:15:37 +0000  Running /usr/bin/ditto '-V' '/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app' '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root/Payload/JS Learnging.app'
+2020-05-12 04:15:37 +0000  >>> Copying /Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app 
+2020-05-12 04:15:37 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-05-12 04:15:37 +0000  5729 bytes for ./_CodeSignature/CodeResources
+2020-05-12 04:15:37 +0000  copying file ./JS Learnging ... 
+225200 bytes for ./JS Learnging
+copying file ./AppIcon60x60@2x.png ... 
+2020-05-12 04:15:37 +0000  6540 bytes for ./AppIcon60x60@2x.png
+2020-05-12 04:15:37 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2020-05-12 04:15:37 +0000  936 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2020-05-12 04:15:37 +0000  1173 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2020-05-12 04:15:37 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2020-05-12 04:15:37 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2020-05-12 04:15:37 +0000  1173 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-05-12 04:15:37 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Assets.car ... 
+2020-05-12 04:15:37 +0000  367320 bytes for ./Assets.car
+copying file ./AppIcon76x76@2x~ipad.png ... 
+2020-05-12 04:15:37 +0000  9541 bytes for ./AppIcon76x76@2x~ipad.png
+copying file ./Demo.html ... 
+2020-05-12 04:15:37 +0000  2376 bytes for ./Demo.html
+2020-05-12 04:15:37 +0000  copying file ./Frameworks/WKWebViewJavascriptBridge.framework/_CodeSignature/CodeResources ... 
+2020-05-12 04:15:37 +0000  1798 bytes for ./Frameworks/WKWebViewJavascriptBridge.framework/_CodeSignature/CodeResources
+2020-05-12 04:15:37 +0000  copying file ./Frameworks/WKWebViewJavascriptBridge.framework/Info.plist ... 
+774 bytes for ./Frameworks/WKWebViewJavascriptBridge.framework/Info.plist
+copying file ./Frameworks/WKWebViewJavascriptBridge.framework/WKWebViewJavascriptBridge ... 
+2020-05-12 04:15:37 +0000  344128 bytes for ./Frameworks/WKWebViewJavascriptBridge.framework/WKWebViewJavascriptBridge
+copying file ./embedded.mobileprovision ... 
+2020-05-12 04:15:37 +0000  7350 bytes for ./embedded.mobileprovision
+2020-05-12 04:15:37 +0000  copying file ./Info.plist ... 
+1289 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2020-05-12 04:15:37 +0000  8 bytes for ./PkgInfo
+2020-05-12 04:15:37 +0000  /usr/bin/ditto exited with 0
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-05-12 04:15:37 +0000  Skipping profile for item: <IDEDistributionItem: 0x7ff1c76cce20; bundleID='com.sherry1.www', path='<DVTFilePath:0x7ff1cb0b51b0:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff1e03d0b90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff1c92e7b50; name='Apple Distribution: shunquan zhu (JVT35ZF2R6)', hash='A26E71A3378DBA14B5936FC8E38ADA901B7BD130', serialNumber='686C4176F77A41C9', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2020-05-12 03:56:34 +0000''>', entitlements='(null)', teamID='JVT35ZF2R6', identifier='com.sherry1.www', executablePath='<DVTFilePath:0x7ff1cb0ae530:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework/WKWebViewJavascriptBridge'>', hardenedRuntime='0'>'>
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionInfoPlistStep
+2020-05-12 04:15:37 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-05-12 04:15:37 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionItemRemovalStep
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-05-12 04:15:37 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-05-12 04:15:37 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-05-12 04:15:37 +0000  Running /usr/bin/ditto '-V' '/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/BCSymbolMaps/33290F8C-54BE-301E-9C7E-B2EB9E03792C.bcsymbolmap' '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root/BCSymbolMaps/33290F8C-54BE-301E-9C7E-B2EB9E03792C.bcsymbolmap'
+2020-05-12 04:15:37 +0000  >>> Copying /Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/BCSymbolMaps/33290F8C-54BE-301E-9C7E-B2EB9E03792C.bcsymbolmap 
+2020-05-12 04:15:37 +0000  copying file ./33290F8C-54BE-301E-9C7E-B2EB9E03792C.bcsymbolmap ... 
+2020-05-12 04:15:37 +0000  25861 bytes for ./33290F8C-54BE-301E-9C7E-B2EB9E03792C.bcsymbolmap
+2020-05-12 04:15:37 +0000  /usr/bin/ditto exited with 0
+2020-05-12 04:15:37 +0000  Running /usr/bin/ditto '-V' '/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/BCSymbolMaps/09E864DF-A086-3A1A-BFF3-72AA92BD9757.bcsymbolmap' '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root/BCSymbolMaps/09E864DF-A086-3A1A-BFF3-72AA92BD9757.bcsymbolmap'
+2020-05-12 04:15:37 +0000  >>> Copying /Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/BCSymbolMaps/09E864DF-A086-3A1A-BFF3-72AA92BD9757.bcsymbolmap 
+2020-05-12 04:15:37 +0000  copying file ./09E864DF-A086-3A1A-BFF3-72AA92BD9757.bcsymbolmap ... 
+2020-05-12 04:15:37 +0000  11840 bytes for ./09E864DF-A086-3A1A-BFF3-72AA92BD9757.bcsymbolmap
+2020-05-12 04:15:37 +0000  /usr/bin/ditto exited with 0
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionSymbolsStep
+2020-05-12 04:15:37 +0000  Excluding symbols for WKWebViewJavascriptBridge.framework
+2020-05-12 04:15:37 +0000  Excluding symbols for JS Learnging.app
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionAppThinningStep
+2020-05-12 04:15:37 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionArchThinningStep
+2020-05-12 04:15:37 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root/Payload/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework/WKWebViewJavascriptBridge' '-verify_arch' 'arm64e'
+2020-05-12 04:15:37 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-05-12 04:15:37 +0000  Skipping architecture thinning for item "WKWebViewJavascriptBridge" because arch "arm64e" wasn't found
+2020-05-12 04:15:37 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root/Payload/JS Learnging.app/JS Learnging' '-verify_arch' 'arm64e'
+2020-05-12 04:15:37 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-05-12 04:15:37 +0000  Skipping architecture thinning for item "JS Learnging" because arch "arm64e" wasn't found
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionODRStep
+2020-05-12 04:15:37 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-05-12 04:15:37 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7ff1c76cce20; bundleID='com.sherry1.www', path='<DVTFilePath:0x7ff1cb0b51b0:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff1e03d0b90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff1c82018e0; name='Apple Distribution: shunquan zhu (JVT35ZF2R6)', hash='A26E71A3378DBA14B5936FC8E38ADA901B7BD130', serialNumber='686C4176F77A41C9', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2020-05-12 03:56:34 +0000''>', entitlements='(null)', teamID='JVT35ZF2R6', identifier='com.sherry1.www', executablePath='<DVTFilePath:0x7ff1cb0ae530:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework/WKWebViewJavascriptBridge'>', hardenedRuntime='0'>'>
+2020-05-12 04:15:37 +0000  Running /usr/bin/xattr '-crs' '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root/Payload/JS Learnging.app'
+2020-05-12 04:15:38 +0000  /usr/bin/xattr exited with 0
+2020-05-12 04:15:38 +0000  Processing step: IDEDistributionCodesignStep
+2020-05-12 04:15:39 +0000  Entitlements for <IDEDistributionItem: 0x7ff1c76cce20; bundleID='com.sherry1.www', path='<DVTFilePath:0x7ff1cb0b51b0:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff1e03d0b90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff1cad34640; name='Apple Distribution: shunquan zhu (JVT35ZF2R6)', hash='A26E71A3378DBA14B5936FC8E38ADA901B7BD130', serialNumber='686C4176F77A41C9', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2020-05-12 03:56:34 +0000''>', entitlements='(null)', teamID='JVT35ZF2R6', identifier='com.sherry1.www', executablePath='<DVTFilePath:0x7ff1cb0ae530:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework/WKWebViewJavascriptBridge'>', hardenedRuntime='0'>'>: {
+}
+2020-05-12 04:15:39 +0000  Writing entitlements for <IDEDistributionItem: 0x7ff1c76cce20; bundleID='com.sherry1.www', path='<DVTFilePath:0x7ff1cb0b51b0:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff1e03d0b90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff1c8f6a160; name='Apple Distribution: shunquan zhu (JVT35ZF2R6)', hash='A26E71A3378DBA14B5936FC8E38ADA901B7BD130', serialNumber='686C4176F77A41C9', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2020-05-12 03:56:34 +0000''>', entitlements='(null)', teamID='JVT35ZF2R6', identifier='com.sherry1.www', executablePath='<DVTFilePath:0x7ff1cb0ae530:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework/WKWebViewJavascriptBridge'>', hardenedRuntime='0'>'> to: /var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/entitlements~~~CUHTKx
+2020-05-12 04:15:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A26E71A3378DBA14B5936FC8E38ADA901B7BD130' '--entitlements' '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/entitlements~~~CUHTKx' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root/Payload/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework'
+2020-05-12 04:15:39 +0000  /var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root/Payload/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework: signed bundle with Mach-O thin (arm64) [com.sherry1.www]
+2020-05-12 04:15:39 +0000  /usr/bin/codesign exited with 0
+2020-05-12 04:15:39 +0000  Entitlements for <IDEDistributionItem: 0x7ff1dd504f90; bundleID='com.sherry1.www', path='<DVTFilePath:0x7ff1cadc1600:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff1cb125b90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff1c8f6a160; name='Apple Distribution: shunquan zhu (JVT35ZF2R6)', hash='A26E71A3378DBA14B5936FC8E38ADA901B7BD130', serialNumber='686C4176F77A41C9', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2020-05-12 03:56:34 +0000''>', entitlements='{
+    "application-identifier" = "JVT35ZF2R6.com.sherry1.www";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = JVT35ZF2R6;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "JVT35ZF2R6.com.sherry1.www"
+    );
+}', teamID='JVT35ZF2R6', identifier='com.sherry1.www', executablePath='<DVTFilePath:0x7ff1c5fcd270:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app/JS Learnging'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "JVT35ZF2R6.com.sherry1.www";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = JVT35ZF2R6;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "JVT35ZF2R6.com.sherry1.www"
+    );
+}
+2020-05-12 04:15:39 +0000  Writing entitlements for <IDEDistributionItem: 0x7ff1dd504f90; bundleID='com.sherry1.www', path='<DVTFilePath:0x7ff1cadc1600:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff1cb125b90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff1cb4f6be0; name='Apple Distribution: shunquan zhu (JVT35ZF2R6)', hash='A26E71A3378DBA14B5936FC8E38ADA901B7BD130', serialNumber='686C4176F77A41C9', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2020-05-12 03:56:34 +0000''>', entitlements='{
+    "application-identifier" = "JVT35ZF2R6.com.sherry1.www";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = JVT35ZF2R6;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "JVT35ZF2R6.com.sherry1.www"
+    );
+}', teamID='JVT35ZF2R6', identifier='com.sherry1.www', executablePath='<DVTFilePath:0x7ff1c5fcd270:'/Users/joke/Library/Developer/Xcode/Archives/2020-05-12/WKWebViewJavascriptBridgeDemo 2020-5-12, 12.11 PM.xcarchive/Products/Applications/JS Learnging.app/JS Learnging'>', hardenedRuntime='0'>'> to: /var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/entitlements~~~UojqeG
+2020-05-12 04:15:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A26E71A3378DBA14B5936FC8E38ADA901B7BD130' '--entitlements' '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/entitlements~~~UojqeG' '--preserve-metadata=identifier,flags,runtime' '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root/Payload/JS Learnging.app'
+2020-05-12 04:15:39 +0000  /var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root/Payload/JS Learnging.app: signed app bundle with Mach-O thin (arm64) [com.sherry1.www]
+2020-05-12 04:15:39 +0000  /usr/bin/codesign exited with 0
+2020-05-12 04:15:39 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-05-12 04:15:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-05-12 04:15:39 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-05-12 04:15:39 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-05-12 04:15:39 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root' '/var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Packages/WKWebViewJavascriptBridgeDemo.ipa'
+2020-05-12 04:15:39 +0000  >>> Copying /var/folders/m0/3jxjrw8s3m36r962xfhytbr40000gn/T/XcodeDistPipeline.~~~qVqlXq/Root 
+2020-05-12 04:15:39 +0000  copying file ./BCSymbolMaps/33290F8C-54BE-301E-9C7E-B2EB9E03792C.bcsymbolmap ... 
+2020-05-12 04:15:39 +0000  25861 bytes for ./BCSymbolMaps/33290F8C-54BE-301E-9C7E-B2EB9E03792C.bcsymbolmap
+copying file ./BCSymbolMaps/09E864DF-A086-3A1A-BFF3-72AA92BD9757.bcsymbolmap ... 
+11840 bytes for ./BCSymbolMaps/09E864DF-A086-3A1A-BFF3-72AA92BD9757.bcsymbolmap
+copying file ./Payload/JS Learnging.app/_CodeSignature/CodeResources ... 
+5729 bytes for ./Payload/JS Learnging.app/_CodeSignature/CodeResources
+copying file ./Payload/JS Learnging.app/JS Learnging ... 
+2020-05-12 04:15:39 +0000  166848 bytes for ./Payload/JS Learnging.app/JS Learnging
+copying file ./Payload/JS Learnging.app/AppIcon60x60@2x.png ... 
+2020-05-12 04:15:39 +0000  6540 bytes for ./Payload/JS Learnging.app/AppIcon60x60@2x.png
+copying file ./Payload/JS Learnging.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2020-05-12 04:15:39 +0000  936 bytes for ./Payload/JS Learnging.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/JS Learnging.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+1173 bytes for ./Payload/JS Learnging.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/JS Learnging.app/Base.lproj/Main.storyboardc/Info.plist ... 
+258 bytes for ./Payload/JS Learnging.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/JS Learnging.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+1173 bytes for ./Payload/JS Learnging.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/JS Learnging.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+896 bytes for ./Payload/JS Learnging.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/JS Learnging.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/JS Learnging.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/JS Learnging.app/Assets.car ... 
+2020-05-12 04:15:39 +0000  367320 bytes for ./Payload/JS Learnging.app/Assets.car
+copying file ./Payload/JS Learnging.app/AppIcon76x76@2x~ipad.png ... 
+2020-05-12 04:15:39 +0000  9541 bytes for ./Payload/JS Learnging.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/JS Learnging.app/Demo.html ... 
+2376 bytes for ./Payload/JS Learnging.app/Demo.html
+copying file ./Payload/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework/_CodeSignature/CodeResources ... 
+2020-05-12 04:15:39 +0000  1798 bytes for ./Payload/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework/_CodeSignature/CodeResources
+copying file ./Payload/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework/Info.plist ... 
+774 bytes for ./Payload/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework/Info.plist
+copying file ./Payload/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework/WKWebViewJavascriptBridge ... 
+2020-05-12 04:15:39 +0000  261104 bytes for ./Payload/JS Learnging.app/Frameworks/WKWebViewJavascriptBridge.framework/WKWebViewJavascriptBridge
+2020-05-12 04:15:39 +0000  copying file ./Payload/JS Learnging.app/embedded.mobileprovision ... 
+7350 bytes for ./Payload/JS Learnging.app/embedded.mobileprovision
+copying file ./Payload/JS Learnging.app/Info.plist ... 
+1289 bytes for ./Payload/JS Learnging.app/Info.plist
+copying file ./Payload/JS Learnging.app/PkgInfo ... 
+8 bytes for ./Payload/JS Learnging.app/PkgInfo
+2020-05-12 04:15:39 +0000  /usr/bin/ditto exited with 0
+2020-05-12 04:15:39 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-05-12 04:15:39 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-05-12 04:15:39 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-05-12 04:15:39 +0000  Processing step: IDEDistributionCreateManifestStep
+2020-05-12 04:15:39 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
