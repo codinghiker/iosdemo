@@ -15,7 +15,7 @@ line 174
         }
       end
     
-    
+   end  
     
  
  # Get the `itctx` from the new (22nd May 2017) API endpoint "olympus"
